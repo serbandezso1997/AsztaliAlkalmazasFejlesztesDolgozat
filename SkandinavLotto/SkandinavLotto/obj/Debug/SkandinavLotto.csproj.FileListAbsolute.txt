@@ -1,0 +1,13 @@
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\bin\Debug\SkandinavLotto.exe.config
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\bin\Debug\SkandinavLotto.exe
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\bin\Debug\SkandinavLotto.pdb
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.Properties.Resources.resources
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.csproj.GenerateResource.cache
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.exe
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.pdb
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.Form1.resources
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.SkandinavLotto.resources
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.OtosLotto.resources
+D:\Program Files (x86)\Programozas\suli_programozas\c#\Dolgozat\SkandinavLotto\SkandinavLotto\obj\Debug\SkandinavLotto.HatosLotto.resources
